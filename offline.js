@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1604817093,
+	"version": 1604821020,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,7 +31,12 @@
 		"images/barreira-sheet0.png",
 		"images/mute-sheet0.png",
 		"images/mute2-sheet0.png",
-		"media/[ontiva.com] game menu select sound effect-hq.ogg",
+		"images/armario-sheet0.png",
+		"images/tv-sheet0.png",
+		"images/signal-sheet0.png",
+		"images/escuro-sheet0.png",
+		"media/old.ogg",
+		"media/[ontiva.com] menu selection sound effect-hq.ogg",
 		"media/loja.ogg",
 		"media/intro.ogg",
 		"icon-16.png",
