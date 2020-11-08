@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1604808946,
+	"version": 1604816563,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,12 @@
 		"images/cc-sheet0.png",
 		"images/zelda-sheet0.png",
 		"images/zelda-sheet1.png",
+		"images/barreira-sheet0.png",
+		"images/mute-sheet0.png",
+		"images/mute2-sheet0.png",
+		"media/[ontiva.com] game menu select sound effect-hq.ogg",
+		"media/loja.ogg",
+		"media/intro.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

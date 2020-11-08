@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1604808946
+#1604816563
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -27,6 +27,12 @@ images/bof-sheet1.png
 images/cc-sheet0.png
 images/zelda-sheet0.png
 images/zelda-sheet1.png
+images/barreira-sheet0.png
+images/mute-sheet0.png
+images/mute2-sheet0.png
+media/[ontiva.com]%20game%20menu%20select%20sound%20effect-hq.ogg
+media/loja.ogg
+media/intro.ogg
 icon-16.png
 icon-32.png
 icon-114.png
