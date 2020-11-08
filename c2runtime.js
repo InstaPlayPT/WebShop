@@ -23145,5 +23145,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.rgb,
 	cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
 	cr.plugins_.Button.prototype.acts.SetEnabled,
+	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
 	cr.system_object.prototype.acts.GoToLayout
 ];};
