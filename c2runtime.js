@@ -26116,10 +26116,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
 	cr.plugins_.Keyboard,
 	cr.plugins_.Multiplayer,
+	cr.plugins_.Touch,
+	cr.plugins_.TextBox,
 	cr.plugins_.Sprite,
 	cr.plugins_.Text,
-	cr.plugins_.TextBox,
-	cr.plugins_.Touch,
 	cr.behaviors.EightDir,
 	cr.behaviors.bound,
 	cr.behaviors.solid,
@@ -26230,5 +26230,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.rgb,
 	cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
 	cr.plugins_.Button.prototype.acts.SetEnabled,
+	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
 	cr.system_object.prototype.acts.GoToLayout
 ];};
